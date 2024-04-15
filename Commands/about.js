@@ -37,7 +37,7 @@ export default {
         { name: t('aboutBotVersion'), value: `DLAP ${npmPackage.version}` },
         { name: t('aboutCreator'), value: 'Andrew Lee (alee)' }, // Do not remove this since I created this :)
         { name: t('aboutContributors'), value: 'Victor Moraes (Vicktor#7232) (Improving README)\nParlance Translation Team' },
-        // { name: t('aboutForked'), value: '[your name] (username)' },
+        { name: t('aboutForked'), value: '[Oliah] (CliffracerX)' },
         { name: t('aboutFrameworks'), value: `Discord.JS ${version}\nmusic-metadata\ni18next` },
         { name: t('aboutLicense'), value: 'GNU General Public License v3.0' }
       )
